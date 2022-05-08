@@ -1,0 +1,9 @@
+Compiled/
+Debug/
+settings/
+*.txt
+*.dep
+*.ewd
+*.ewp
+*.ewt
+*.eww
